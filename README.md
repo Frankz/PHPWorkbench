@@ -1,2 +1,2 @@
 # PHPWorkbench
-An PHP Workbench
+A Simple (by now...) PHP Workbench
